@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "submitted_at": "2026-09-06T04:01:20.233Z",
+  "endpoint": "https://api.indexnow.org/indexnow",
+  "prefix": "https://shar-production-open-tools.pages.dev/qc-checklists/",
+  "url_count": 102,
+  "url_list_sha256": "4aa73a5bcfd69692f3dcfc61aeae4a809352dc730ee4d1bc4c6891b061949dc2",
+  "http_status": 200,
+  "status": "SUBMISSION_ACCEPTED_INDEXING_NOT_GUARANTEED"
+}
